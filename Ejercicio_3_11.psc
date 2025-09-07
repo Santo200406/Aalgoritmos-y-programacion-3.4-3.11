@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo Ejercicio_3_11
     Definir r1, r2, r3 Como Real
     Definir i1, i2, i3 Como Entero
@@ -65,4 +66,5 @@ Algoritmo Ejercicio_3_11
     Escribir "j) raiz2(cuadrado(4)) = 4"
     Escribir "k) cuadrado(raiz2(4)) = 4"
     Escribir "l) trunc(8.15)+redondeo(8.15) = ", r3
+
 FinAlgoritmo
