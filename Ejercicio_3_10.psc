@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo Ejercicio_3_10
     Definir a, b, c, d, e, f, g, h Como Entero
     Definir t1, t2, t3 Como Entero
@@ -45,4 +46,5 @@ Algoritmo Ejercicio_3_10
     Escribir "f) 15 mod 5 =", f
     Escribir "g) 7*10 - 50 mod 3 *4 + 9 =", g
     Escribir "h) (7*(10-5) mod 3)*4 + 9 =", h
+
 FinAlgoritmo
