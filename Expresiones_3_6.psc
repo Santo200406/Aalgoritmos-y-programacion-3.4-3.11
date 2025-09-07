@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo Expresiones_3_6
     // Definir variables
     Definir a, b, c, x, t, z, r, x1, y1, x2, y2 Como Real
@@ -64,4 +65,5 @@ Algoritmo Expresiones_3_6
     Escribir "i) (y2 - y1)/(x2 - x1) =", res_i
     Escribir "j) 2*pi*r =", res_j
     Escribir "k) 4/3*pi*r^3 =", res_k
+
 FinAlgoritmo
