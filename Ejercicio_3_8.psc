@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo Ejercicio_3_8
     // Definir variables
     Definir A, B, C Como Real
@@ -22,4 +23,5 @@ Algoritmo Ejercicio_3_8
     Escribir "Resultado a) =", res_a
     Escribir "Resultado b) =", res_b
     Escribir "Resultado c) =", res_c
+
 FinAlgoritmo
