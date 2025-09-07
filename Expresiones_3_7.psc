@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo Expresiones_3_7
 	Definir sqrt Como Numerica
     // Definir variables
@@ -38,4 +39,5 @@ Algoritmo Expresiones_3_7
     Escribir "c) (b + d) / (c + 4) = ", res_c
     Escribir "d) sqrt(x^2 + y^2) = ", res_d
     
+
 FinAlgoritmo
