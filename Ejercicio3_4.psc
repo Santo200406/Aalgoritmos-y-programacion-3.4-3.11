@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo Ejercicio3_4
     Definir A, B, resultado Como Real
 	
@@ -8,4 +9,5 @@ Algoritmo Ejercicio3_4
 	
     Escribir "A =", A, " B =", B
     Escribir "Resultado =", resultado
+
 FinAlgoritmo
