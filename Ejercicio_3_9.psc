@@ -1,3 +1,4 @@
+//Santiago Carbajal 00654500
 Algoritmo Ejercicio_3_9
     Definir A, B, C, res_derecha, res_izquierda Como Real
 	
@@ -14,4 +15,5 @@ Algoritmo Ejercicio_3_9
     Escribir "A =", A, " B =", B, " C =", C
     Escribir "A^(B^C) =", res_derecha
     Escribir "(A^B)^C =", res_izquierda
+
 FinAlgoritmo
